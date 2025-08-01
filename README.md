@@ -55,9 +55,10 @@ Sample queries in `SQL/SQL_codes.sql` include:
 ## 📁 Project Structure
 
 project/
-├── notebooks/ # Python data cleaning and EDA
-├── sql/ # SQL queries used in analysis
-├── dashboard/ # .pbix file and screenshot
-├── report/ # Final PDF report
-├── dataset/ # Dataset and Kaggle link
-└── README.md # Project overview
+├── notebooks/                  # Python files for data cleaning and EDA
+├── sql/                        # All your SQL queries
+├── dashboard/                  # Your Power BI .pbix file and screenshots
+├── report/                     # Your final written report (PDF)
+├── dataset/                    # Dataset and link to Kaggle
+└── README.md                   # This guide document (project overview)
+
